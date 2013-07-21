@@ -1,0 +1,23 @@
+{
+  "name": "sangen",
+  "version": "0.0.1",
+  "description": "Utility to convert music files using ffmpeg",
+  "main": "sangen.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emosher/sangen.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "music",
+    "wma",
+    "mp3"
+  ],
+  "author": "Eric Mosher",
+  "bugs": {
+    "url": "https://github.com/emosher/sangen/issues"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "~1.5.2"
+  }
+}

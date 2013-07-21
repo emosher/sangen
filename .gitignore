@@ -1,0 +1,8 @@
+node_modules/
+
+# Eclipse
+.project
+.settings/
+
+# Copyright infrigement is BAD JUJU
+music/
