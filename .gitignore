@@ -4,5 +4,8 @@ node_modules/
 .project
 .settings/
 
+# Netbeans
+nbproject/
+
 # Copyright infrigement is BAD JUJU
-music/
+testMusic/
