@@ -1,4 +1,4 @@
 sangen
 ======
 
-Music stuff for Node.js
+Norwegian for "The Song".  A little music conversion module for Node.js.
