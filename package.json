@@ -1,6 +1,6 @@
 {
   "name": "sangen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utility to convert music files using ffmpeg",
   "main": "sangen.js",
   "repository": {
@@ -11,7 +11,8 @@
     "ffmpeg",
     "music",
     "wma",
-    "mp3"
+    "mp3",
+    "wav"
   ],
   "author": "Eric Mosher",
   "bugs": {
